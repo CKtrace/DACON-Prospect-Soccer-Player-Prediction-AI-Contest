@@ -14,8 +14,25 @@ __This repository is a place to share "축구선수의 유망 여부 예측 AI �
 ```
 주최 및 주관 : 데이콘
 ```
-</br>
 
+<br>
+## Repository Structure
+
+```
+│  README.md
+│  
+├─Data_Preprocessing
+│      Data_Preprocessing.ipynb
+│      
+└─Model
+    ├─Another_Build_Model
+    │      xgb_k_fold_ensemble.py
+    │      xgb_optuna.py
+    │      
+    └─Final_Submission_Model
+            Gradient_Boosting_Model.py
+```
+<br>
 
 ## Development Environment
 </br>
