@@ -9,6 +9,7 @@ Final Ranking : 13/89 (Top 14.6%)
 </br>
 
 __This repository is a place to share "[축구선수의 유망 여부 예측 AI 경진대회](https://dacon.io/competitions/open/236031/overview/description)" solution code.__
+
 </br>
 
 ```
